@@ -1,6 +1,6 @@
 # Bucketizer
 
-> `bucketize` is a crate for slotting numerical values into buckets. To do this, create a `Bucketizer` and add you buckets to it,
+> `bucketize` is a crate for slotting numerical values into buckets. To do this, create a `Bucketizer` and add you buckets to it.
 
 > The use the `.bucketize()` method to get back the bucket a value fits into.
 
